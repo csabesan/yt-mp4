@@ -1,4 +1,6 @@
 # yt-mp4
+*python script that converts YouTube videos to an mp4 file*
+
 This Python script allows you to download YouTube videos using the Pytube library. It accepts a YouTube video URL as a command-line argument and downloads the video with the highest available resolution to the current working directory.
 
 ## Features
